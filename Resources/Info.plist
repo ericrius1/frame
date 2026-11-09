@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>en</string>
+    <key>CFBundleDisplayName</key>
+    <string>Frame</string>
+    <key>CFBundleExecutable</key>
+    <string>Frame</string>
+    <key>CFBundleIconFile</key>
+    <string>Frame.icns</string>
+    <key>CFBundleIdentifier</key>
+    <string>dev.frame.capture</string>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>CFBundleName</key>
+    <string>Frame</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>0.6.1</string>
+    <key>CFBundleVersion</key>
+    <string>7</string>
+    <key>LSApplicationCategoryType</key>
+    <string>public.app-category.utilities</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>15.0</string>
+    <key>LSUIElement</key>
+    <false/>
+    <key>NSHighResolutionCapable</key>
+    <true/>
+    <key>NSPrincipalClass</key>
+    <string>NSApplication</string>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>Frame uses your microphone when you choose Microphone or Both for a screen recording.</string>
+    <key>NSScreenCaptureUsageDescription</key>
+    <string>Frame captures only the screen area you select for a screenshot or recording.</string>
+    <key>NSAudioCaptureUsageDescription</key>
+    <string>Frame records the sound playing on your Mac when you choose System audio or Both.</string>
+</dict>
+</plist>
